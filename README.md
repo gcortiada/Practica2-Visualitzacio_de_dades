@@ -7,11 +7,9 @@ Then, you can open the following link in a browser 'http://127.0.0.1:8050/' and 
 
 # Datasets
 
-Link Dataset 1: https://analisi.transparenciacatalunya.cat/Educaci-/Concerts-educatius-Unitat-
-alumnes-dotaci-de-planti/8spq-9nx7
+Link Dataset 1: https://analisi.transparenciacatalunya.cat/Educaci-/Concerts-educatius-Unitat-alumnes-dotaci-de-planti/8spq-9nx7
 
-Link Dataset 2: https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-generals-dels-
-ens-locals-de-Catalunya/6nei-4b44
+Link Dataset 2: https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-generals-dels-ens-locals-de-Catalunya/6nei-4b44
 
 
 # License
